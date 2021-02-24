@@ -4,7 +4,7 @@ My name is Andrew and I am completely passionate about software development as w
 
 ### A little more about me...
 
-```javascript
+```python
 class AndrewBorges:
   def __init__(self):
     self.skills = ['C', 'Java with some frameworks/API's', 'C# with API's and frameworks',
