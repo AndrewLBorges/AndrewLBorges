@@ -7,7 +7,7 @@ My name is Andrew and I am completely passionate about software development as w
 ```python
 class AndrewBorges:
   def __init__(self):
-    self.skills = ['C', 'Java with some frameworks/API's', 'C# with API's and frameworks',
+    self.skills = ['C', 'Java with some frameworks/API's', 'CSharp with API's and frameworks',
     'Python', 'SQL', 'HTML', 'CSS', 'Javascript']
     
     self.learning = ['Cloud Computing', 'GUI', 'Back-end', 'Design Patterns',
