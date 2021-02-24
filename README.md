@@ -7,8 +7,11 @@ My name is Andrew and I am completely passionate about software development as w
 ```javascript
 class AndrewBorges:
   def __init__(self):
-    self.skills = ['C', 'Java with some frameworks/API's', 'C# with API's and frameworks', 'Python', 'SQL', 'HTML', 'CSS', 'Javascript']
-    self.learning = ['Cloud Computing', 'GUI', 'Back-end', 'Design Patterns', 'Data manipulation/visualization', 'Machine Learning', 'Deep Learning', 'statistics',
+    self.skills = ['C', 'Java with some frameworks/API's', 'C# with API's and frameworks',
+    'Python', 'SQL', 'HTML', 'CSS', 'Javascript']
+    
+    self.learning = ['Cloud Computing', 'GUI', 'Back-end', 'Design Patterns',
+    'Data manipulation/visualization', 'Machine Learning', 'Deep Learning', 'statistics',
     'Linear Agebra', 'Graph Theory', 'puzzle solving and different alghorithms']
  
   def keepLearning(self):
