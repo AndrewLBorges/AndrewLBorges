@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Andrew 👋
 
-<!--
-**AndrewLBorges/AndrewLBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andrew and I am completely passionate about software development as well as Data Science, IA and almost everything related. I'm currently working as a Trainee software developer learning mainly C# .NET Core and cloud and I'm also coming back to college as a CS student.
 
-Here are some ideas to get you started:
+### A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+class AndrewBorges:
+  def __init__(self):
+    self.skills = ['C', 'Java with some frameworks/API's', 'C# with API's and frameworks', 'Python', 'SQL', 'HTML', 'CSS', 'Javascript']
+    self.learning = ['Cloud Computing', 'GUI', 'Back-end', 'Design Patterns', 'Data manipulation/visualization', 'Machine Learning', 'Deep Learning', 'statistics',
+    'Linear Agebra', 'Graph Theory', 'puzzle solving and different alghorithms']
+ 
+  def keepLearning(self):
+     learnNextKnowledge()
+    
+    
+ myself = AndrewBorges()
+ 
+ while(true):
+     myself.keepLearning()
+```
