@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrew 👋
 
-My name is Andrew and I am completely passionate about software development as well as Data Science, IA and almost everything related. I'm currently working as a Trainee software developer learning mainly C# .NET Core and cloud and I'm also coming back to college as a CS student.
+My name is Andrew and I am completely passionate about software development as well as Data Science, IA and almost everything related. I'm currently working as a Junior software developer using mainly C# .NET Core and Azure Cloud Services and I'm also gradutaing in Data Science to eventually transition my career.
 
 ### A little more about me...
 
